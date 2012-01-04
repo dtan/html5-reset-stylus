@@ -1,0 +1,4 @@
+Stylus-ized HTML5 CSS reset file.
+
+Original HTML5 CSS reset file was written by Richard Clark.
+This is simply a port of said file to stylus.
